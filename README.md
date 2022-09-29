@@ -1,3 +1,4 @@
+[![brew test](https://github.com/tudvari/brew-registry/actions/workflows/tests.yml/badge.svg)](https://github.com/tudvari/brew-registry/actions/workflows/tests.yml)
 # brew-registry
 Homebrew casks repository for personal usage
 
